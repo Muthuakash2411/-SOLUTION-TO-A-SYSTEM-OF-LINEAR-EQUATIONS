@@ -23,9 +23,10 @@ a=np.array([[1,3],[2,5]])
 b=np.array([5,-3])
 c=np.linalg.solve(a,b)
 print(c)
+```
 ## Output:
 <img width="1268" height="737" alt="Screenshot 2025-11-19 104707" src="https://github.com/user-attachments/assets/ed8d1ad3-3b0e-4a52-8e1d-92c5e96c9010" />
-```
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
